@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Racheli
+# Hi, I'm Racheli 👋
 
 Dedicated and innovative Software Developer with a strong passion for technology and a specialization in Artificial Intelligence. Skilled in designing and developing advanced software systems using a broad range of programming languages and cutting-edge technologies.  
 
