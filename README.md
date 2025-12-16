@@ -1,38 +1,40 @@
-# Hi, I'm Racheli 👋
+# 👋 Hi, I'm Racheli
 
-Passionate about coding, AI, and creating cool web projects.  
-I love turning ideas into reality and exploring new technologies every day! 🚀
+💻 Full-Stack Developer | 🔮 Exploring AI | 🚀 Always Learning
+
+Turning ideas into code, one project at a time. Passionate about building web apps and experimenting with new technologies.
 
 ---
 
 ## 🛠 Languages & Tools
 
-**Frontend:** JavaScript, TypeScript, React, HTML5, CSS3  
-**Backend:** Node.js, Express, Python, MySQL  
-**Tools:** Git, Docker, VS Code
+**Frontend:** `JavaScript`, `TypeScript`, `React`, `HTML5`, `CSS3`  
+**Backend:** `Node.js`, `Express`, `Python`, `MySQL`  
+**Tools:** `Git`, `Docker`, `VS Code`, `Postman`
 
 ---
 
-## 💡 Skills
+## 💡 What I Do
 
-- Full-Stack Web Development  
-- API Integration & REST  
-- Problem Solving & Algorithms  
-- Team Collaboration & Project Management
+- 🚀 Build full-stack web applications  
+- ⚡ Integrate APIs & RESTful services  
+- 🧩 Solve algorithmic and coding challenges  
+- 🤝 Collaborate in teams and manage projects  
+- 🎨 Experiment with creative tech solutions
 
 ---
 
 ## 📊 GitHub Stats
 
-![Racheli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=racheli-ostrov&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=racheli-ostrov&layout=compact&theme=radical)
+![Racheli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=racheli-ostrov&show_icons=true&count_private=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=racheli-ostrov&layout=compact&theme=dracula)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=racheli-ostrov&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=racheli-ostrov&theme=dracula)
 
 ---
 
-✨ Always coding, always learning, always creating! ✨
+✨ "Code, create, repeat!" ✨
