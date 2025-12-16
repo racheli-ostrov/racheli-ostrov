@@ -48,10 +48,4 @@ My goal is to develop AI-powered systems that enhance processes, improve user ex
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=racheli-ostrov&theme=radical)
-
----
-
 ✨ "Code, create, repeat!" ✨
