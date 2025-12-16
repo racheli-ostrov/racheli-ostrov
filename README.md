@@ -19,24 +19,16 @@ My goal is to develop AI-powered systems that enhance processes, improve user ex
   <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
-
-  <!-- Web Development -->
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
-
-  <!-- Backend -->
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Java Spring" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
-
-  <!-- Databases -->
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
-
-  <!-- Tools -->
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GitHub" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://maven.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/maven-original.svg" alt="Maven" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
@@ -46,30 +38,6 @@ My goal is to develop AI-powered systems that enhance processes, improve user ex
 ## 💡 Other Skills
 
 `FastAPI` | `Pandas` | `Matplotlib` | `Pytest` | `PyMySQL` | `Hibernate` | `Web API` | `Software Testing` | `Data Structures` | `Algorithms`
-
-
-
-
-## 🛠 Programming Languages
-`C` | `C++` | `C#` | `Python` | `Java` | `NodeJS` | `JavaScript`
-
-## 🌐 Web Development
-`HTML5` | `CSS3` | `React` | `Angular`
-
-## 🖥 Backend Development
-`NodeJS` | `.NET Core` | `Java Spring`
-
-## 🗄 Databases
-`SQL` | `MongoDB`
-
-## ⚙️ Tools
-`GitHub` | `Maven`
-
-## 📚 Frameworks & Libraries
-`FastAPI` | `Pandas` | `Matplotlib` | `Pytest` | `PyMySQL` | `Hibernate` | `Redux`
-
-## 💡 Other Skills
-`Web API` | `Software Testing` | `Data Structures` | `Algorithms`
 
 ---
 
