@@ -9,7 +9,7 @@ As someone who loves challenges, puzzles, and thinking exercises, I enjoy pushin
 My goal is to develop AI-powered systems that enhance processes, improve user experiences, and make a real impact on organizations and society.
 
 ---
-## 🛠 Languages & Technologies
+## 🛠 Languages & Tools
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff&labelColor=555555)
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=fff&labelColor=555555)
@@ -38,6 +38,7 @@ My goal is to develop AI-powered systems that enhance processes, improve user ex
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff&labelColor=555555)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff&labelColor=555555)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=fff&labelColor=555555)
+
 
 ## 🛠 Programming Languages
 `C` | `C++` | `C#` | `Python` | `Java` | `NodeJS` | `JavaScript`
