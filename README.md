@@ -1,3 +1,9 @@
+<style>
+  body, p, a, h1, h2, h3, h4, h5, h6, li {
+    font-family: 'Calibri Light', Calibri, sans-serif;
+  }
+</style>
+
 # Hi, I'm Racheli 👋
 
 Dedicated and innovative Software Developer with a strong passion for technology and a specialization in Artificial Intelligence. Skilled in designing and developing advanced software systems using a broad range of programming languages and cutting-edge technologies.  
@@ -9,6 +15,7 @@ As someone who loves challenges, puzzles, and thinking exercises, I enjoy pushin
 My goal is to develop AI-powered systems that enhance processes, improve user experiences, and make a real impact on organizations and society.
 
 ---
+
 ## Languages and Tools
 
 <p align="left">
@@ -42,11 +49,14 @@ My goal is to develop AI-powered systems that enhance processes, improve user ex
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://cmake.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
 </p>
+
 ---
 
 ## 💡 Other Skills
 
 `FastAPI` | `Pandas` | `Matplotlib` | `Pytest` | `PyMySQL` | `Hibernate` | `Web API` | `Software Testing` | `Data Structures` | `Algorithms`
+
+---
 
 ---
 
@@ -58,3 +68,4 @@ My goal is to develop AI-powered systems that enhance processes, improve user ex
 ---
 
 ✨ "Code, create, repeat!" ✨
+
