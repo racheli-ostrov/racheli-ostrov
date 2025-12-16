@@ -39,6 +39,15 @@ My goal is to develop AI-powered systems that enhance processes, improve user ex
   <a href="https://visualstudio.microsoft.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://cmake.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
+  <a href="https://spring.io/projects/spring-boot"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Java Spring" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
+<a href="https://maven.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/maven-original.svg" alt="Maven" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
+<a href="https://matplotlib.org/"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
+<a href="https://docs.pytest.org/"><img src="https://pytest.org/static/img/logo.png" alt="Pytest" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
+<a href="https://pymysql.readthedocs.io/"><img src="https://avatars.githubusercontent.com/u/3714011?s=200&v=4" alt="PyMySQL" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
+<a href="https://hibernate.org/"><img src="https://hibernate.org/images/hibernate-logo.svg" alt="Hibernate" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
 </p>
 
 
