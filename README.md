@@ -42,6 +42,7 @@ My goal is to develop AI-powered systems that enhance processes, improve user ex
   <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
   <a href="https://cmake.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="50" height="50" style="border-radius: 15%; margin: 5px"/></a>
 </p>
+---
 
 ## 💡 Other Skills
 
